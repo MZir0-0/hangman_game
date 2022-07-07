@@ -1,6 +1,5 @@
 import random
 import string
-import sys
 
 
 print(f'H A N G M A N')
